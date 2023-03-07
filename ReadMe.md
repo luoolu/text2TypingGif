@@ -16,3 +16,4 @@ $   cat 文本文件 | pv -qL 10
   <source src="key_tech_AI.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+![](key_tech_AI.mp4)
